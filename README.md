@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ConMan94
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning game development and C#
+- 💞️ I’m looking to collaborate on game development
+- 📫 How to reach me br_tal@pm.me
